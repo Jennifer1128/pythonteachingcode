@@ -1,6 +1,6 @@
 [X] Create a title for the project in both Visual Studio Code and a presentation on Google Slides
 [X] Research information about Chess
-[] Make a program that will be used for the project
+[X] Make a program that will be used for the project
 [] Set up meeting dates and times to meet with my team member to check-in
 [] Pick out specific tasks of the project 
 [] Discuss with team members on how and whom will be fixing problems if present

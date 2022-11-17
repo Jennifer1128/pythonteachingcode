@@ -8,7 +8,7 @@
 [] Keep track if the successful and unsuccessful changes
 [] Discuss final changes or code information that needs to be fixed before starting the final presentation
 [] Double check your coding and make sure that the application is running properly
-[] Begin working on the final presentation make sure it has at least 10 slides
+[X] Begin working on the final presentation make sure it has at least 10 slides
 [] Import images from the programming system into the powerpoint
 [] Import statistical data into the powerpoint presentation
 [] Be sure to input references into the presentation at the end

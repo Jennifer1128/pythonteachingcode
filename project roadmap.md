@@ -2,7 +2,7 @@
 [X] Research information about Chess
 [X] Make a program that will be used for the project
 [] Set up meeting dates and times to meet with my team member to check-in
-[] Pick out specific tasks of the project 
+[X] Pick out specific tasks of the project 
 [] Discuss with team members on how and whom will be fixing problems if present
 [] Solve each problem
 [] Keep track if the successful and unsuccessful changes
